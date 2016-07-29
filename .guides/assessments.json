@@ -1,0 +1,85 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1960889124",
+  "source": {
+   "name": "Question 1:",
+   "showName": true,
+   "instructions": "Select the correct answer from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "When data is transmitted across the internet it is split into <<<packets>>>. Each packet has a header containing the recipient’s <<<IP address>>>.",
+   "tokens": {
+    "blank": [
+     "packets",
+     "IP address"
+    ],
+    "text": [
+     "When data is transmitted across the internet it is split into ",
+     0,
+     ". Each packet has a header containing the recipient’s ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3341249192",
+  "source": {
+   "name": "Question 2:",
+   "showName": true,
+   "instructions": "Select the correct answer from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "<<<Routers>>> inspect each one and decide on the most efficient <<<path>>> to send it on. They can select a different one if there is <<<congestion>>> on the network or there is a <<<problem>>> with part of it.",
+   "tokens": {
+    "blank": [
+     "Routers",
+     "path",
+     "congestion",
+     "problem"
+    ],
+    "text": [
+     0,
+     " inspect each one and decide on the most efficient ",
+     0,
+     " to send it on. They can select a different one if there is ",
+     0,
+     " on the network or there is a ",
+     0,
+     " with part of it."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2821313513",
+  "source": {
+   "name": "Question 3:",
+   "showName": true,
+   "instructions": "Select the correct answer from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "This type of transmission where there is no single <<<dedicated>>> line is called <<<packet>>> <<<switching>>>.",
+   "tokens": {
+    "blank": [
+     "dedicated",
+     "packet",
+     "switching"
+    ],
+    "text": [
+     "This type of transmission where there is no single ",
+     0,
+     " line is called ",
+     0,
+     " ",
+     0,
+     "."
+    ]
+   }
+  }
+ }
+]

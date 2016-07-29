@@ -1,0 +1,62 @@
+{
+ "sections": [
+  {
+   "id": "c787888c-8d8e-8e29-5714-163cab01c852",
+   "title": "Introduction",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-c787.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "55b58036-a561-808a-ba3f-5cffe3d18069",
+   "title": "Packets",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Packets-55b5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "00949d16-0b43-d78d-06b3-1df683dd354e",
+   "title": "Packet Switching",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Packet-Switching-0094.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b508ad8e-ea40-35ee-9e41-3317e99a51c1",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-b508.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b3a7ecd9-80f6-7fc2-a333-65955f34fbe3",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-b3a7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
